@@ -1,11 +1,11 @@
 ---
 layout: page
-title: ChinaStudy
-description: a project that redirects to another website
+title: China Study
+description: A look at interactions between mortality and lifestyle in 1983 rural China.
 img: assets/img/chinastudy.png
 redirect: https://github.com/wcmohr/ChinaStudy
 importance: 3
-category: work
+category: fun
 ---
 
 Every project has a beautiful feature showcase page.

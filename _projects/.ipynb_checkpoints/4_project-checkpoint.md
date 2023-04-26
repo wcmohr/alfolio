@@ -1,11 +1,10 @@
 ---
 layout: page
-title: Tennis Predictions
-description: Comparisons between ranking points, Elo, and Glicko-2 as predictors of match outcomes.
-img: assets/img/tennisphoto.png
-redirect: https://github.com/wcmohr/TennisPredictions
+title: project 4
+description: another without an image
+img:
 importance: 3
-category: Prediction
+category: fun
 ---
 
 Every project has a beautiful feature showcase page.

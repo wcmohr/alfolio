@@ -1,11 +1,11 @@
 ---
 layout: page
 title: Tennis Predictions
-description: a project that redirects to another website
+description: Comparisons between ranking points, Elo, and Glicko-2 as predictors of match outcomes.
 img: assets/img/tennisphoto.png
 redirect: https://github.com/wcmohr/TennisPredictions
 importance: 3
-category: work
+category: fun
 ---
 
 Every project has a beautiful feature showcase page.
