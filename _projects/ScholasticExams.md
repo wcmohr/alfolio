@@ -5,7 +5,7 @@ description: A look at participation rates vs. test scores for the SAT and ACT.
 img: assets/img/scholasticexams.jpg
 redirect: https://github.com/wcmohr/ScholasticExams
 importance: 3
-category: Exploratory Data Analysis
+category: fun
 ---
 
 Every project has a beautiful feature showcase page.
