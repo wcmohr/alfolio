@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 3
+title: Reddit
 description: a project that redirects to another website
-img: assets/img/7.jpg
+img: assets/img/reddit.png
 redirect: https://unsplash.com
 importance: 3
 category: work
