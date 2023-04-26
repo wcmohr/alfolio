@@ -1,7 +1,7 @@
 ---
 layout: page
 title: project 3
-description: a project that redirects to another website
+description: A look at participation rates vs. test scores for the SAT and ACT.
 img: assets/img/7.jpg
 redirect: https://github.com/wcmohr/ScholasticExams
 importance: 3
