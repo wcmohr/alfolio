@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Reddit Classification
-description: Use of grid-search in training NLP model to classify between r/Technology and r/Science subreddits 
-img: assets/img/reddit.png
-redirect: https://github.com/wcmohr/RedditClassification
+title: Housing Prediction & Inference in Ames, IA
+description: I look at key potential contributors to profitable residential housing development outcomes.
+img: assets/img/ameshousing.jpg
+redirect: https://github.com/wcmohr/AmesHousing
 importance: 3
-category: fun
+category: work
 ---
 
 Every project has a beautiful feature showcase page.
