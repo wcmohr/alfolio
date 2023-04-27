@@ -5,7 +5,7 @@ description: I look at key potential contributors to profitable residential hous
 img: assets/img/ameshousing.jpg
 redirect: https://github.com/wcmohr/AmesHousing
 importance: 3
-category: work
+category: fun
 ---
 
 Every project has a beautiful feature showcase page.
