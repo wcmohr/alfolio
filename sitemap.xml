@@ -1,18 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>https://wcmohr.github.io/news/announcement_1/</loc>
-<lastmod>2015-10-22T19:59:00+00:00</lastmod>
-</url>
-<url>
-<loc>https://wcmohr.github.io/news/announcement_2/</loc>
-<lastmod>2015-11-07T20:11:00+00:00</lastmod>
-</url>
-<url>
-<loc>https://wcmohr.github.io/news/announcement_3/</loc>
-<lastmod>2016-01-15T11:59:00+00:00</lastmod>
-</url>
-<url>
 <loc>https://wcmohr.github.io/blog/2015/formatting-and-links/</loc>
 <lastmod>2015-03-15T16:40:16+00:00</lastmod>
 </url>
@@ -62,23 +50,23 @@
 </url>
 <url>
 <loc>https://wcmohr.github.io/projects/AmesHousing/</loc>
-<lastmod>2023-04-27T00:06:03+00:00</lastmod>
+<lastmod>2023-04-28T20:09:48+00:00</lastmod>
 </url>
 <url>
 <loc>https://wcmohr.github.io/projects/ChinaStudy/</loc>
-<lastmod>2023-04-27T00:06:03+00:00</lastmod>
+<lastmod>2023-04-28T20:09:48+00:00</lastmod>
 </url>
 <url>
 <loc>https://wcmohr.github.io/projects/RedditClassification/</loc>
-<lastmod>2023-04-27T00:06:03+00:00</lastmod>
+<lastmod>2023-04-28T20:09:48+00:00</lastmod>
 </url>
 <url>
 <loc>https://wcmohr.github.io/projects/ScholasticExams/</loc>
-<lastmod>2023-04-27T00:06:03+00:00</lastmod>
+<lastmod>2023-04-28T20:09:48+00:00</lastmod>
 </url>
 <url>
 <loc>https://wcmohr.github.io/projects/TennisPredictions/</loc>
-<lastmod>2023-04-27T00:06:03+00:00</lastmod>
+<lastmod>2023-04-28T20:09:48+00:00</lastmod>
 </url>
 <url>
 <loc>https://wcmohr.github.io/</loc>
