@@ -30,14 +30,17 @@
     - title: BA
       institution: University of Rochester, Rochester, NY
       year: 2016
-      Deans list: Spring 2013, Spring 2015, Fall 2016, Spring 2016
-      Degrees:
-        - Economics:
-          Classwork:
+      description: 
+        - title: Deans list
+          contents:
+            - Spring 2013, Spring 2015, Fall 2016, Spring 2016
+        - title: Degrees
+          contents:
+            - Mathematics, Economics
+        - title: Coursework
+          contents:
             - Topics in Microeconomic Theory, 4.0
             - Principles of Economics, 4.0
-        - Mathematics:
-          Classwork:
             - Applied Statistics II, 4.0
             - Linear Algebra W/Differential Equations, 3.7
             - Linear Algebra (proofs-based), 3.7
