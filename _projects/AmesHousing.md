@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Housing Prediction & Inference in Ames, IA
-description: I look at key potential contributors to profitable residential housing development outcomes.
+description: I identify key contributors to profitable residential housing development outcomes.
 img: assets/img/ameshousing.jpg
 redirect: https://github.com/wcmohr/AmesHousing
 importance: 3
