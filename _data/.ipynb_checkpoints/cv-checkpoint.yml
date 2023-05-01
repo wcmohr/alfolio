@@ -19,24 +19,21 @@
           contents:
             - Python (Pandas, Numpy, SciKit-Learn, Matplotlib, Spacey, NLTK, Seaborn, pyglicko), github
             - Classification, Regression, Neural Networks, CLustering, NLP, EDA
-    - title: MSc
+    - title: Master of Science
       institution: Simon Business School, Rochester, NY
       year: 2017
       description:
-        - title: Accountancy
+      - title: Degrees
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: BA
+            - Accountancy
+    - title: Bachelor of Arts
       institution: University of Rochester, Rochester, NY
       year: 2016
       description: 
         - title: Deans list
           contents:
             - Spring 2013, Spring 2015, Fall 2016, Spring 2016
-        - title: Degrees
-          contents:
-            - Mathematics, Economics
+
         - title: Coursework
           contents:
             - Topics in Microeconomic Theory, 4.0
