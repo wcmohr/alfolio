@@ -1,12 +1,10 @@
 github_users:
-  - torvalds
-  - alshedivat
-
+  - wcmohr
+  
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - wcmohr/al-folio
+  - wcmohr/ChinaStudy
+  - wcmohr/TennisPredictions
+  - wcmohr/RedditClassification
+  - wcmohr/AmesHousing
+  - wcmohr/ScholasticExams
