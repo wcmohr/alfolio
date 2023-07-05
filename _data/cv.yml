@@ -23,7 +23,9 @@
       institution: Simon Business School, Rochester, NY
       year: 2017
       description:
-        - title: Accountancy
+        - title: Major
+          contents:
+            - Accountancy
     - title: BA
       institution: University of Rochester, Rochester, NY
       year: 2016
