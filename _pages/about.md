@@ -17,4 +17,4 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a numbers guy with degrees in Mathematics, Economics, and Accounting as well as a passion for actuarial studies.  I use data science techniques to answer questions and provide tools that empower rational decision making and have a positive impact on people's health and lives.  
+I am a numbers guy with degrees in Mathematics, Economics, and Accounting as well as a passion for actuarial studies.  I use data science techniques to answer questions and provide tools that empower rational decision making and have a positive impact on peoples health and lives.  
