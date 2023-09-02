@@ -5,7 +5,7 @@ description: Comparisons between ranking points, Elo, and Glicko-2 as predictors
 img: assets/img/tennisphoto.png
 redirect: https://github.com/wcmohr/TennisPredictions
 importance: 3
-category: fun
+category: Rating Systems
 ---
 
 Every project has a beautiful feature showcase page.

@@ -5,7 +5,7 @@ description: I identify key contributors to profitable residential housing devel
 img: assets/img/ameshousing.jpg
 redirect: https://github.com/wcmohr/AmesHousing
 importance: 3
-category: fun
+category: Regression
 ---
 
 Every project has a beautiful feature showcase page.

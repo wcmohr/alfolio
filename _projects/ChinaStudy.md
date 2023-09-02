@@ -5,7 +5,7 @@ description: A look at interactions between mortality and lifestyle in 1983 rura
 img: assets/img/chinastudy.png
 redirect: https://github.com/wcmohr/ChinaStudy
 importance: 3
-category: fun
+category: Epidemiology
 ---
 
 Every project has a beautiful feature showcase page.

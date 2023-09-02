@@ -5,7 +5,7 @@ description: Use of grid-search in training NLP model to classify between r/Tech
 img: assets/img/reddit.png
 redirect: https://github.com/wcmohr/RedditClassification
 importance: 3
-category: fun
+category: Natural Language Processing
 ---
 
 Every project has a beautiful feature showcase page.
