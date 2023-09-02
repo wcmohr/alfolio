@@ -3,7 +3,7 @@ layout: page
 title: Reddit Classification
 description: Use of grid-search in training NLP model to classify between r/Technology and r/Science subreddits 
 img: assets/img/reddit.png
-redirect: https://github.com/wcmohr/AmesHousing
+redirect: https://github.com/wcmohr/RedditClassification
 importance: 3
 category: fun
 ---
