@@ -4,7 +4,7 @@ title: Tennis Predictions
 description: Comparisons between ranking points, Elo, and Glicko-2 as predictors of match outcomes.
 img: assets/img/tennisphoto.png
 redirect: https://github.com/wcmohr/TennisPredictions
-importance: 3
+importance: 5
 category: Rating Systems
 ---
 
