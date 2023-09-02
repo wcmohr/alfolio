@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: A growing collection of projects with which I expand my data science skill set.
 nav: true
 nav_order: 2
 display_categories: [Exploratory Data Analysis, Regression, Natural Language Processing, Epidemiology, Rating Systems]
